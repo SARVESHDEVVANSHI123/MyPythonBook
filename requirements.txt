@@ -1,0 +1,10 @@
+sphinx==3.1.*
+sphinx_rtd_theme
+sphinxcontrib-bibtex
+
+## Profiling
+# yappi
+
+
+# sphinxcontrib-book
+# sphinxjp.themes.revealjs
